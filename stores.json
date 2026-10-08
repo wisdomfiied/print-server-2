@@ -1,0 +1,34 @@
+{
+  "aruns-coral-springs": {
+    "enabled": true,
+    "name": "Arun's Indian Kitchen",
+    "line": "Coral Springs · (954) 227-1123",
+    "footer": "Thank you for supporting a local family business.",
+    "printerMac": "",
+    "format": "starprnt",
+    "logo": "",
+    "promo": {
+      "title": "",
+      "text": "",
+      "code": "",
+      "qrUrl": "",
+      "qrCaption": ""
+    }
+  },
+  "aruns-sunrise": {
+    "enabled": true,
+    "name": "Arun's Indian Kitchen",
+    "line": "Sunrise / Lauderhill",
+    "footer": "Thank you for supporting a local family business.",
+    "printerMac": "00:11:62:31:9c:6d",
+    "format": "starprnt",
+    "logo": "",
+    "promo": {
+      "title": "",
+      "text": "",
+      "code": "",
+      "qrUrl": "",
+      "qrCaption": ""
+    }
+  }
+}

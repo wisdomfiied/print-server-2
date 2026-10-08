@@ -1,0 +1,16 @@
+{
+  "id": 9001, "name": "#1047", "created_at": "2026-10-07T18:22:00-04:00",
+  "financial_status": "paid", "phone": null,
+  "customer": {"first_name": "Priya", "last_name": "Mehta"},
+  "shipping_address": {"first_name":"Priya","last_name":"Mehta","address1":"2200 Glades Rd","address2":"Suite 400","city":"Boca Raton","province_code":"FL","zip":"33431","phone":"(561) 555-0142"},
+  "shipping_lines": [{"title":"Local Delivery","price":"15.00"}],
+  "note_attributes": [{"name":"Delivery Date","value":"Sat, Oct 10"},{"name":"Delivery Time","value":"12:30 PM"}],
+  "note": "NUT ALLERGY on 2 guests - keep cashew dishes separate and labeled. Call on arrival, gate code 4471.",
+  "line_items": [
+    {"title":"Butter Chicken Tray (Serves 10)","quantity":2,"price":"89.00","variant_title":"Medium Spice","properties":[{"name":"Rice","value":"Basmati"}]},
+    {"title":"Paneer Tikka Masala Tray","quantity":1,"price":"79.00","variant_title":"Mild","properties":[]},
+    {"title":"Garlic Naan","quantity":20,"price":"3.50","variant_title":"Default Title","properties":[]},
+    {"title":"Samosa Platter (24 pc)","quantity":1,"price":"48.00","variant_title":null,"properties":[{"name":"Chutney","value":"Mint + Tamarind"},{"name":"_internal","value":"x"}]}
+  ],
+  "subtotal_price":"375.00","total_discounts":"0.00","total_tax":"26.25","total_tip_received":"30.00","total_price":"446.25"
+}
